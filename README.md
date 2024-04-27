@@ -1,2 +1,2 @@
 # disShortcut
-快速删除快捷方式
+![](disShortcuts_icon.ico)
